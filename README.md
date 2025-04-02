@@ -15,7 +15,7 @@ The pipeline consists of three main tasks:
 Ensure you have the following installed:  
 - **Apache Spark (>=3.0.0)**  
 - **Python (>=3.7)**  
-- **flaker(used for generating fake data such as names, addresses, phone numbers, timestamps)**  
+- **faker(used for generating fake data such as names, addresses, phone numbers, timestamps)**  
 
 To install pyspark&faker (if not installed), use:  
 ```sh
